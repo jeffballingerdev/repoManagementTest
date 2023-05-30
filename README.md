@@ -6,4 +6,4 @@ This line was added in the feature3 branch
 
 FeatureXYZ update
 
-FeatureJJJ update
+FeatureJJJ update!
